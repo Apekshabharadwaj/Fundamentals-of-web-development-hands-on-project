@@ -57,7 +57,7 @@ a[href^="tel"]
 
 header
 {
-    background-image: url(header-background.png);
+    background-image: url(color.jpg);
     background-repeat: repeat;
 }
 h1
@@ -125,7 +125,7 @@ section h3
 {
     color: mintcream;
     padding: 0.5em;
-    background-image: url(header-background.png);
+    background-image: url(color.jpg);
     background-repeat: repeat;
 }
 section p
